@@ -19,40 +19,23 @@ Last Updated on |date|
    :titlesonly:
    :hidden:
 
-   getting-started/index
-   project-development/index
-   documentation/index
    tools/index
    license
    changelog.md
    version
 
-Welcome! This is the documentation for the *asap* project. This is the top level
-container project for the asap modules. It provides the integrated build system
-and the overall structure for projects following the asap development workflow.
-
-The main goal from this family of modules and projects is to significantly cut
-the bootstrap time of starting a new c++ application, using CMake as the build
-system.
+Welcome! This is the documentation for the `unic++
+<https://github.com/abdes/unicpp>`_ |version| project. This project uses the
+`asap <https://github.com/abdes/asap>`_ integrated build system and follows its
+documentation frameowork and development workflow.
 
 Parts of the documentation
 ==========================
 
-:doc:`Getting Started! <getting-started/index>`
------------------------------------------------
-*start here to understand how to use this project as a starter for your own
-project*
-
-:doc:`Project Development <project-development/index>`
-------------------------------------------------------
-*refer to this part of the documentation to understand the build system
-specifics for this project, the development workflow, coding and unit testing
-guidelines*
-
-:doc:`Documentation <documentation/index>`
-------------------------------------------
-*refer to this part of the documentation to understand how project documentation
-is structured and built from source using `doxygen` and `sphinx`.*
+`Developer Guides <https://abdes.github.io/asap/asap_master/html/project-development/index.html>`_
+--------------------------------------------------------------------------------------------------
+*head over to the `asap` project documentation for detailed guides on how to
+build and maintain the different targets in this project.*
 
 :doc:`Project Tools <tools/index>`
 ----------------------------------
